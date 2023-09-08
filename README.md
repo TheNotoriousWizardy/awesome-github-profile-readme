@@ -123,6 +123,7 @@
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
+- [Elazzouzi Hassan](https://github.com/ElazzouziHassan)
 - [Martin Heinz](https://github.com/MartinHeinz/MartinHeinz)
 - [Adam Alston](https://github.com/adamalston/adamalston)
 - [Rafnix Guzmán](https://github.com/rafnixg/rafnixg)
